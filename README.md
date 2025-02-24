@@ -1,4 +1,4 @@
-# Hi there, I'm Jonas Vanluchene 👋
+# Hi there, I'm Jonas Vanluchene 
 
 ## About Me
 
