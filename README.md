@@ -9,7 +9,7 @@ Currently, I'm gaining hands-on experience in full-stack development with a focu
 
 ### 🚀 Projects
 
-**🌟 Lumina (Mental Wellness Tracking App)**
+**🌟 [Lumina](https://github.com/jonasvanluchene/lumina) (Mental Wellness Tracking App)**
 A comprehensive mental health tracking application with mobile and web components:
 * **Frontend**: React
 * **Backend**: ASP.NET Core 9.0 Web API with MSSQL database
