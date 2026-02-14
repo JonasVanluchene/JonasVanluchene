@@ -69,6 +69,11 @@ I build purposeful, user-centered applications with a focus on **C# .NET**, **Ja
 - **Full-Stack Reliability:** Ensuring performance and data integrity from the database to the UI.
 - **Health-Tech:** Passionate about software that supports healthcare and public services.
 
-📫 **Connect with me:** I'm always open to discussing technical architecture or potential collaborations.  
-**[LinkedIn Profile](https://www.linkedin.com/in/jonas-vanluchene/)** | Or reach out via GitHub to request access to private repositories.
+### 🔑 Access Policy & Connect
+To protect architectural integrity, my core projects are private. I am happy to provide access to recruiters and lead developers for a technical review.
+
+**Request access through:**
+* 🔵 **[LinkedIn](https://www.linkedin.com/in/jonas-vanluchene/)**
+* 🐙 **GitHub:** Open an issue or contact me.
+* 🦊 **[GitLab](https://gitlab.com/JonasVanluchene/me)**
 
